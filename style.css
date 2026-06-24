@@ -1,50 +1,6 @@
-body {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: #333333;
-    background-color: #fcfcfc;
-}
-
-h1, h2 { 
-    color: #1a252f;
-}
-
-ul {
-    padding-left: 20px;
-}
-
-nav a {
-    margin-right: 15px;
-    text-decoration: none;
-    color: #3498db;
-    font-weight: bold;
-}
-
-nav a:hover {
-    color: #2980b9;
-}
-
-button {
-    background-color: #3498db;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    margin-right: 10px;
-    margin-top: 10px;
-    font-weight: bold;
-}
-
-button:hover {
-    background-color: #2980b9;
-}
-
-footer {
-    margin-top: 40px;
-    color: #777777;
-    font-size: 0.9rem;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <link rel= "stylesheet" href= "style.css">
+    <tittle> 
